@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 I'm Rohan Darandale
+💫 I'm Rohan Darandale
 
 - 🌱 I’m currently learning DSA & Web Development
 - 👯 I’m looking to collaborate on React Projects
