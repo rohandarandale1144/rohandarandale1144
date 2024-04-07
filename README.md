@@ -1,6 +1,6 @@
 ![logo](https://github.com/rohandarandale1144/rohandarandale1144/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Rohan Darandale</h1>
-<h3 align="center">A Passionate Software Engineer|DSA Enthusiast</h3>
+<h3 align="center">A Passionate Software Engineer | DSA Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
 
